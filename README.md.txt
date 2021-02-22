@@ -1,0 +1,1 @@
+Django project on social authentication and signup configuration
